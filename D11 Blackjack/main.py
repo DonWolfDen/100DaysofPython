@@ -70,7 +70,9 @@ def restart(): ##
         ## Import, Start Game ##
 
 import random
-from replit import clear
+#from replit import clear
+import os
+clear = lambda: os.system('clear')
 from art import logo
 start_game = ""
 
