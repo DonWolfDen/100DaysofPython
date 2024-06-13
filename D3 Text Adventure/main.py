@@ -63,10 +63,10 @@ else: ### GAME OVER ###
 #     if stage3 == "y":
 #       print("You died")
 #     else:
-#       print("Pussy")
-#       stage4= input("Attack the farmer you pussy. Y or N\n").lower()
+#       print("Wussy")
+#       stage4= input("Attack the farmer you wussy. Y or N\n").lower()
 #       if stage4 == "y":
 #         print("You died")
 #       else:
-#         print("Congrats, you're a pussy.\n\nGAME OVER")   
+#         print("Congrats, you're a wussy.\n\nGAME OVER")   
   
