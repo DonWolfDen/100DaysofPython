@@ -1,5 +1,8 @@
-from replit import clear
+#from replit import clear
 from art import logo
+import os
+clear = lambda: os.system('clear')
+
 print(logo)
 
 bids = {}
