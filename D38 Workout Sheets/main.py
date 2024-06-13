@@ -4,7 +4,7 @@ from datetime import datetime
 
 NUTRIX_ID = os.environ.get("NUTRIX_ID")
 NUTRIX_KEY = os.environ.get("NUTRIX_KSHEETY_WORKOUTS_END = os.environ.get("SHEETY_END")
-NUTRIX_EXERCISE_END = os.environ.get("NUTRIX_EXERCISE_END")rkouts"
+NUTRIX_EXERCISE_END = os.environ.get("NUTRIX_EXERCISE_END")
 
 nutrix_headers = {
     "x-app-id": NUTRIX_ID,
